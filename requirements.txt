@@ -44,4 +44,4 @@ py-cpuinfo  # display CPU info
 # pycocotools>=2.0.6  # COCO mAP
 # roboflow
 
-setuptools~=68.0.0
+setuptools~=77.0.3
